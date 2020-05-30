@@ -1,0 +1,503 @@
+<!doctype html>
+<html>
+	<head>
+		<title>王永生|个人网站|技术分享</title>
+		<meta name="keywords" content="王永生|个人网站|技术分享" />
+		<meta name="description" content="本人从事互联网行业,本网站属于个人网站只是为了分享一些个人技术文档,仅供大家借鉴。如有需要 联系方式QQ：804630127" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="/static/index/css/base.css" rel="stylesheet">
+<link href="/static/index/css/index.css" rel="stylesheet">
+<link href="/static/index/css/m.css" rel="stylesheet">
+<script src="/static/index/js/jquery.min.js"></script>
+<script src="/static/index/js/jquery.easyfader.min.js"></script>
+<script src="/static/index/js/hc-sticky.js"></script>
+<script src="/static/index/js/comm.js"></script>
+<script src="/static/index/js/scrollreveal.js"></script>
+<!--[if lt IE 9]>
+<script src="/static/index/js/modernizr.js"></script>
+<![endif]-->
+		
+	</head>
+	<body>
+		<header class="header-navigation" id="header">
+		<nav>
+	<div class="logo"><a href="/">思凡 | 个人分享</a></div>
+	<h2 id="mnavh"><span class="navicon"></span></h2>
+	<ul id="starlist">
+					<li class=""><a href="/">首页</a></li>
+								<li class=""><a href="/article/2.html">享文章</a></li>
+						</ul>
+	<div class="searchbox">
+		<!-- <div id="search_bar" class="search_bar">
+			<form id="searchform" action="" method="post" name="searchform">
+				<input class="input" placeholder="想搜点什么呢.." type="text" name="keyboard" id="keyboard">
+				<input type="hidden" name="Submit" value="搜索" />
+				<p class="search_ico"> <span></span></p>
+			</form>
+		</div> -->
+	</div>
+</nav>	
+		</header>
+		<article>
+			<!--banner begin-->
+			<div class="banner">
+				<div id="banner" class="fader">
+										<li class="slide">
+						<a href="javascrit:void(0);" title="王永生 个人网站">
+							<img src="/uploads/20191101/0f99b7b32a48708373a0df39988ff223.jpg">
+							<span class="imginfo">王永生 个人网站</span>
+						</a>
+					</li>
+										<li class="slide">
+						<a href="javascrit:void(0);" title="王永生 个人分享">
+							<img src="/uploads/20191101/9ebb593f51472d3110dca85f41d7b4d9.jpg">
+							<span class="imginfo">王永生 个人分享</span>
+						</a>
+					</li>
+										<div class="fader_controls">
+						<div class="page prev" data-target="prev">&lsaquo;</div>
+						<div class="page next" data-target="next">&rsaquo;</div>
+						<ul class="pager_list">
+						</ul>
+					</div>
+				</div>
+			</div>
+			<!--banner end-->
+			<div class="toppic">
+				<li><a href="javascrit:void(0);" title="个人博客从简不繁"><i><img src="/static/index/images/tui1.jpg"></i>
+						<h2>个人网站从简不繁</h2>
+						<span>爱生活</span>
+					</a> </li>
+				<li><a href="javascrit:void(0);" title="我们可以从CSS框架中借鉴到什么"><i><img src="/static/index/images/tui2.png"></i>
+						<h2>我们可以从CSS框架中借鉴到什么</h2>
+						<span>爱学习</span>
+					</a> </li>
+			</div>
+			<main>
+				<div class="news_box">
+					<ul>
+												<li>
+							<i><a href="/article/s/34.html" title="php mysql sql语句简单封装"><img src="/uploads/20200428/29302d2326136228ce4c04eaa70ce6f8.png"></a></i>
+							<h3><a href="/article/s/34.html" title="php mysql sql语句简单封装">php mysql sql语句简单封装</a></h3>
+						</li>
+												<li>
+							<i><a href="/article/s/33.html" title="tp6+workerman经验分享"><img src="/uploads/20200414/9ca06287791f5927d63a70b618916f03.png"></a></i>
+							<h3><a href="/article/s/33.html" title="tp6+workerman经验分享">tp6+workerman经验分享</a></h3>
+						</li>
+												<li>
+							<i><a href="/article/s/32.html" title="javaScript 生成二维码"><img src="/uploads/20200414/eecd520f787cb29a880cfde9431aaac5.png"></a></i>
+							<h3><a href="/article/s/32.html" title="javaScript 生成二维码">javaScript 生成二维码</a></h3>
+						</li>
+												<li>
+							<i><a href="/article/s/31.html" title="HTML分享内容到QQ，微信，微博等平台"><img src="/uploads/20200414/19a7c0273988cf3c57b17bcf85f944b4.png"></a></i>
+							<h3><a href="/article/s/31.html" title="HTML分享内容到QQ，微信，微博等平台">HTML分享内容到QQ，微信，微博等平台</a></h3>
+						</li>
+												<li>
+							<i><a href="/article/s/30.html" title="php数组排序"><img src="/uploads/20191119/819a843e0e7bfc23c54454bdba2a2163.png"></a></i>
+							<h3><a href="/article/s/30.html" title="php数组排序">php数组排序</a></h3>
+						</li>
+												<li>
+							<i><a href="/article/s/29.html" title="df -h统计的信息与du -sh不一致的原因(转)"><img src="/static/noimg.png"></a></i>
+							<h3><a href="/article/s/29.html" title="df -h统计的信息与du -sh不一致的原因(转)">df -h统计的信息与du -sh不一致的原因(转)</a></h3>
+						</li>
+											</ul>
+				</div>
+				<div class="pics">
+					<ul>
+												<li>
+							<i>
+								<a href="javascrit:void(0);" title="云南之行&mdash;&mdash;丽江古镇玉龙雪山"><img src="/uploads/20191101/fdf2fd091b22163aba883ef2f931379a.jpg"></a>
+							</i>
+							<span>云南之行&mdash;&mdash;丽江古镇玉龙雪山</span>
+						</li>
+												<li>
+							<i>
+								<a href="javascrit:void(0);" title="云南之行&mdash;&mdash;大理洱海一日游"><img src="/uploads/20191101/9418c18f23630679615b07b101424d4d.jpg"></a>
+							</i>
+							<span>云南之行&mdash;&mdash;大理洱海一日游</span>
+						</li>
+												<li>
+							<i>
+								<a href="javascrit:void(0);" title="云南之行&mdash;&mdash;初到昆明滇池半日游"><img src="/uploads/20191101/87ce2e22c01a8df0cf69e971481d1b79.jpg"></a>
+							</i>
+							<span>云南之行&mdash;&mdash;初到昆明滇池半日游</span>
+						</li>
+											</ul>
+				</div>
+				<div class="blogtab">
+					<ul id="blogtab">
+						<li class="current">个人推荐</li>
+						<li><a href="javascrit:void(0);"></a></li>
+					</ul>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/19.html" >Git基本命令操作</a></h3>
+						<span class="blogpic"><a href="/article/s/19.html" title="Git基本命令操作"><img src="/uploads/20191102/dfeca0c17a89de6e8000ebf1d59a7ba4.png" alt="Git基本命令操作"></a></span>
+
+						<p class="blogtext">Git(读音为/gɪt/。)是一个开源的分布式版本控制系统，可以有效、高速地处理从很小到非常大的项目版本管理</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-02 01:17:38</li>
+								<li class="view"><span>630</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/27.html" >百度PC浏览器停止服务公告</a></h3>
+						<span class="blogpic"><a href="/article/s/27.html" title="百度PC浏览器停止服务公告"><img src="/uploads/20191104/0ba50118d27dfc6174010b05fd8e86b2.png" alt="百度PC浏览器停止服务公告"></a></span>
+
+						<p class="blogtext">今年5月，百度PC浏览器已正式停止运营与维护。</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-04 18:44:33</li>
+								<li class="view"><span>351</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/33.html" >tp6+workerman经验分享</a></h3>
+						<span class="blogpic"><a href="/article/s/33.html" title="tp6+workerman经验分享"><img src="/uploads/20200414/9ca06287791f5927d63a70b618916f03.png" alt="tp6+workerman经验分享"></a></span>
+
+						<p class="blogtext">tp6+workerman简单实现通讯</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2020-04-14 13:35:22</li>
+								<li class="view"><span>486</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/28.html" >linux下如何清理缓存</a></h3>
+						<span class="blogpic"><a href="/article/s/28.html" title="linux下如何清理缓存"><img src="/uploads/20191112/1084de1673ee50cac52c5cb40699b648.png" alt="linux下如何清理缓存"></a></span>
+
+						<p class="blogtext">free -m 命令可以查看内存使用情况</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-12 16:57:59</li>
+								<li class="view"><span>438</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/17.html" >composer 安装扩展库</a></h3>
+						<span class="blogpic"><a href="/article/s/17.html" title="composer 安装扩展库"><img src="/uploads/20191102/cdfc482d4feb2e44c32e599243ab72f4.jpg" alt="composer 安装扩展库"></a></span>
+
+						<p class="blogtext">Composer 是 PHP5.3以上 的一个依赖管理工具。它允许你声明项目所依赖的代码库，它会在你的项目中为你安装他们。Composer 不是一个包管理器</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-02 01:03:34</li>
+								<li class="view"><span>406</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/26.html" >js打开新窗口</a></h3>
+						<span class="blogpic"><a href="/article/s/26.html" title="js打开新窗口"><img src="/uploads/20191104/9f257079fb1abac070d58d96a9972234.png" alt="js打开新窗口"></a></span>
+
+						<p class="blogtext">Window.open()方法     完整的代码</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-04 17:52:43</li>
+								<li class="view"><span>400</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/13.html" >微信公众号开发可能获得正确或错误的返回码</a></h3>
+						<span class="blogpic"><a href="/article/s/13.html" title="微信公众号开发可能获得正确或错误的返回码"><img src="/uploads/20191101/e530e79cd869ed8695ab86203177c9ff.jpg" alt="微信公众号开发可能获得正确或错误的返回码"></a></span>
+
+						<p class="blogtext">access_token 超时，请检查 access_token 的有效期，请参考基础支持 - 获取 access_token 中，对 access_token 的详细机制说明</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-01 22:14:48</li>
+								<li class="view"><span>399</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/16.html" >靠加班、靠团建、靠个人，迟早你会靠边站</a></h3>
+						<span class="blogpic"><a href="/article/s/16.html" title="靠加班、靠团建、靠个人，迟早你会靠边站"><img src="/uploads/20191101/5925ee299e14bc06d0a9cfeb7c10aa5c.jpg" alt="靠加班、靠团建、靠个人，迟早你会靠边站"></a></span>
+
+						<p class="blogtext">位置越高、责任越大，作为老板，压力都很大，也很焦虑。在这种焦虑感的压迫下，老板都希望员工拼命工作，那样才觉得自己的工资付得值，才觉得公司未来有希望，也能一定程度上缓解自己的焦虑。</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-01 22:22:17</li>
+								<li class="view"><span>389</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/6.html" >小凡</a></h3>
+						<span class="blogpic"><a href="/article/s/6.html" title="小凡"><img src="/static/noimg.png" alt="小凡"></a></span>
+
+						<p class="blogtext">小凡 我好想你</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-10-21 01:19:00</li>
+								<li class="view"><span>384</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/14.html" >微信jsapi支付 或 扫码支付</a></h3>
+						<span class="blogpic"><a href="/article/s/14.html" title="微信jsapi支付 或 扫码支付"><img src="/uploads/20191101/5807907ca58a954547580f8aa2ce55ed.png" alt="微信jsapi支付 或 扫码支付"></a></span>
+
+						<p class="blogtext">第一步先去微信商户平台下载php 版的SDK包
+第二步放入public 目录下</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-01 22:18:35</li>
+								<li class="view"><span>353</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/15.html" >too many connections 解决方法</a></h3>
+						<span class="blogpic"><a href="/article/s/15.html" title="too many connections 解决方法"><img src="/static/noimg.png" alt="too many connections 解决方法"></a></span>
+
+						<p class="blogtext">由于用swoole+thinkphp5时遇到 ：too many connections 解决方法</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-01 22:20:23</li>
+								<li class="view"><span>342</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/20.html" >阿里云OSS 对象存储</a></h3>
+						<span class="blogpic"><a href="/article/s/20.html" title="阿里云OSS 对象存储"><img src="/uploads/20191102/5cf59419924070c8205e06466d3aa953.jpg" alt="阿里云OSS 对象存储"></a></span>
+
+						<p class="blogtext">对象存储服务（Object Storage Service，OSS）是一种海量、安全、低成本、高可靠的云存储服务，适合存放任意类型的文件。容量和处理能力弹性扩展，多种存储类型供选择，全面优化存储成本。</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-02 11:49:15</li>
+								<li class="view"><span>340</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/11.html" >PHP基本语法</a></h3>
+						<span class="blogpic"><a href="/article/s/11.html" title="PHP基本语法"><img src="/uploads/20191101/d50c3bbaaf6cf8b5d55939d0596f2cba.jpg" alt="PHP基本语法"></a></span>
+
+						<p class="blogtext">PHP一些基本语法 可能会有用哟</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-01 22:03:00</li>
+								<li class="view"><span>330</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/10.html" >IE常见bugs以及解决方案列表</a></h3>
+						<span class="blogpic"><a href="/article/s/10.html" title="IE常见bugs以及解决方案列表"><img src="/static/noimg.png" alt="IE常见bugs以及解决方案列表"></a></span>
+
+						<p class="blogtext">1、如何解决IE6及更早浏览器浮动时产生双倍边距的BUG？2、如何解决IE6及更早浏览器下的3像素BUG？3、如何在IE6及更早浏览器下模拟min-height效果？4、如何解决IE7及更早浏览器下当li中出现2个或以上的浮动时，li之间产生的空白间隙的BUG？...</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-10-31 22:56:20</li>
+								<li class="view"><span>326</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/29.html" >df -h统计的信息与du -sh不一致的原因(转)</a></h3>
+						<span class="blogpic"><a href="/article/s/29.html" title="df -h统计的信息与du -sh不一致的原因(转)"><img src="/static/noimg.png" alt="df -h统计的信息与du -sh不一致的原因(转)"></a></span>
+
+						<p class="blogtext">df -h统计的信息与du -sh不一致的原因(转)</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-12 17:41:16</li>
+								<li class="view"><span>322</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/30.html" >php数组排序</a></h3>
+						<span class="blogpic"><a href="/article/s/30.html" title="php数组排序"><img src="/uploads/20191119/819a843e0e7bfc23c54454bdba2a2163.png" alt="php数组排序"></a></span>
+
+						<p class="blogtext">php数组根据某个字段对数组进行排序，php数组指定多字段对数组进行排序</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-19 19:04:25</li>
+								<li class="view"><span>314</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/24.html" >thinkcmf5宝塔liunx版Nginx环境开启伪静态</a></h3>
+						<span class="blogpic"><a href="/article/s/24.html" title="thinkcmf5宝塔liunx版Nginx环境开启伪静态"><img src="/static/noimg.png" alt="thinkcmf5宝塔liunx版Nginx环境开启伪静态"></a></span>
+
+						<p class="blogtext">thinkcmf5宝塔liunx版Nginx环境开启伪静态</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-03 15:49:19</li>
+								<li class="view"><span>308</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/23.html" >css颜色代码对照表(2)</a></h3>
+						<span class="blogpic"><a href="/article/s/23.html" title="css颜色代码对照表(2)"><img src="/uploads/20191103/cd8cd6881ef3f90b2e34d52a40e92269.png" alt="css颜色代码对照表(2)"></a></span>
+
+						<p class="blogtext">css颜色代码对照表</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-03 15:34:13</li>
+								<li class="view"><span>308</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/12.html" >sublime text 3一些常见的快捷键</a></h3>
+						<span class="blogpic"><a href="/article/s/12.html" title="sublime text 3一些常见的快捷键"><img src="/uploads/20191101/37bd0544a373d0ca018f728677c01df0.jpg" alt="sublime text 3一些常见的快捷键"></a></span>
+
+						<p class="blogtext">Ctrl+shift+F 在文件夹内查找，与普通编辑器不同的地方是sublime允许添加多个文件夹进行查找，略高端，未研究。</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-01 22:05:45</li>
+								<li class="view"><span>304</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+										<div class="blogs" data-scroll-reveal="enter bottom over 1s">
+						<h3 class="blogtitle"><a href="/article/s/25.html" >区块链和比特币到底是什么关系</a></h3>
+						<span class="blogpic"><a href="/article/s/25.html" title="区块链和比特币到底是什么关系"><img src="/uploads/20191104/1c34899914b80024bbb7ff405bf16d19.jpg" alt="区块链和比特币到底是什么关系"></a></span>
+
+						<p class="blogtext">其实并非如此，作为比特币的底层技术，区块链是伴随着比特币一起出现的，他们并非从属关系，也并没有明显的先后顺序</p>
+						<div class="bloginfo">
+							<ul>
+								<li class="author"></li>
+								<!-- <li class="lmname"><a href=""></a></li> -->
+								<li class="timer">2019-11-04 17:12:03</li>
+								<li class="view"><span>298</span>已阅读</li>
+							</ul>
+						</div>
+					</div>
+									</div>
+			</main>
+			<aside class="r_box">
+				<div class="about_me">
+	<h2>个人简介</h2>
+	<ul>
+		<i><img src="/static/jj.gif"></i>
+		<p><strong>王永生</strong>本人从事互联网行业,本网站属于个人网站只是为了分享一些个人技术文档,仅供大家借鉴。
+
+如有需要请联系我
+联系方式QQ：804630127
+手机号：17633903010</p>
+	</ul>
+</div>
+<!-- <div class="wdxc">
+	<h2>图文精选</h2>
+	<ul>
+		<li>
+			<a href="" title=""><img src="/"></a>
+		</li>
+		
+	</ul>
+</div> -->
+
+<div class="tuijian">
+	<h2 id="tab"><a href="javascrit:void(0);" class="current">最新文章</a><a href="javascrit:void(0);">点击排行</a></h2>
+
+	<div id="content">
+		<ul style="display:block;">
+						<li>
+				<a href="/article/s/34.html" title="php mysql sql语句简单封装">php mysql sql语句简单封装</a>
+			</li>
+						<li>
+				<a href="/article/s/33.html" title="tp6+workerman经验分享">tp6+workerman经验分享</a>
+			</li>
+						<li>
+				<a href="/article/s/32.html" title="javaScript 生成二维码">javaScript 生成二维码</a>
+			</li>
+						<li>
+				<a href="/article/s/31.html" title="HTML分享内容到QQ，微信，微博等平台">HTML分享内容到QQ，微信，微博等平台</a>
+			</li>
+						<li>
+				<a href="/article/s/30.html" title="php数组排序">php数组排序</a>
+			</li>
+						<li>
+				<a href="/article/s/29.html" title="df -h统计的信息与du -sh不一致的原因(转)">df -h统计的信息与du -sh不一致的原因(转)</a>
+			</li>
+					</ul>
+		<ul>
+						<li>
+				<a href="/article/s/19.html" title="Git基本命令操作">Git基本命令操作</a>
+			</li>
+						<li>
+				<a href="/article/s/33.html" title="tp6+workerman经验分享">tp6+workerman经验分享</a>
+			</li>
+						<li>
+				<a href="/article/s/28.html" title="linux下如何清理缓存">linux下如何清理缓存</a>
+			</li>
+						<li>
+				<a href="/article/s/17.html" title="composer 安装扩展库">composer 安装扩展库</a>
+			</li>
+						<li>
+				<a href="/article/s/26.html" title="js打开新窗口">js打开新窗口</a>
+			</li>
+						<li>
+				<a href="/article/s/13.html" title="微信公众号开发可能获得正确或错误的返回码">微信公众号开发可能获得正确或错误的返回码</a>
+			</li>
+					</ul>
+	</div>
+</div>
+<div class="fenlei">
+	<h2>友情链接</h2>
+	<ul>
+		<li><a href="http://www.ainqs.com" title="王永生个人分享" target="_blank">王永生个人分享</a></li>
+	</ul>
+</div>
+<div class="guanzhu">
+	<h2>关注我 么么哒</h2>
+	<ul>
+		<img src="/static/index/images/wx_qrcode.png">
+	</ul>
+</div>
+		</article>
+		<footer>
+			<p><a href="http://www.beian.miit.gov.cn" target="_blank">豫ICP备17026728号-2</a> <a href="/" target="_blank">王永生|个人网站|技术分享</a></p>
+		</footer>
+		<a href="javascrit:void(0);" class="cd-top">Top</a>
+	</body>
+</html>
